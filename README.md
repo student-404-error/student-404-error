@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&text=Student-404&fontSize=95&theme="tokyonight")
+![header](https://capsule-render.vercel.app/api?type=slice&height=300&section=header&text=Student-404&fontSize=95&theme="tokyonight")
 ### Hi there 👋
 
 <!--
