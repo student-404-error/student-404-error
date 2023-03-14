@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 <a href="https://www.instagram.com/404_engineeringstudent/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=blue">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
