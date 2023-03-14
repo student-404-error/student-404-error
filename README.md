@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&height=300&section=header&text=Student-404&desc=description&fontSize=90&color=timeGradient&animation=fadeIn&fontAlign=80&rotate=18)
+![header](https://capsule-render.vercel.app/api?type=slice&height=300&section=header&text=Student-404&desc=description&fontSize=90&color=timeGradient&animation=fadeIn&fontAlign=30&rotate=18)
 ### Hi there 👋
 
 <!--
