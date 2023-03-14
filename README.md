@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.instagram.com/404_engineeringstudent/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/404_engineeringstudent/" target="_blank"><img src="https://img.shields.io/badge/insta-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
